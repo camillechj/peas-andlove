@@ -17,3 +17,9 @@ _Date: December 4, 2019_
 **Actions:**
 * Disinfected 3 sclerotia and placed them in the centre of 3 PDA plates
 * Placed in incubator at 23C at 3pm
+
+_Date: December 8, 2019_
+
+**Actions:**
+* Checked up on petri dishes containing sclerotia: mycelium germination 
+![taken at 12:30pm](IMG_1530.jpg)
