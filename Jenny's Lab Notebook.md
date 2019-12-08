@@ -22,4 +22,4 @@ _Date: December 8, 2019_
 
 **Actions:**
 * Checked up on petri dishes containing sclerotia: mycelium germination 
-![taken at 12:30pm](peas-andlove/IMG_1530 (2).jpg)
+![image](IMG_1530(2).jpg)
