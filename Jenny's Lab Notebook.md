@@ -9,6 +9,7 @@ _Date: November 19, 2019_
 
 **Actions:**
 * Potted f1 crosses (See attached file for details)
+https://github.com/McGillHaricots/peas-andlove/blob/master/f1%20crosses.xlsx 
 
      
 _Date: December 2, 2019_
