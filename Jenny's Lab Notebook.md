@@ -4,6 +4,12 @@ _Date: October 9, 2019_
 
 **Actions:**
 * Planted WM-1 and WM-12 in the greenhouse 
+
+_Date: November 19, 2019_
+
+**Actions:**
+* Potted f1 crosses (See attached file for details)
+
      
 _Date: December 2, 2019_
 
