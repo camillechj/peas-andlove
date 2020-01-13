@@ -45,3 +45,11 @@ _Date: January 7, 2020_
 * Potted 40 plants (10 USPT-WM-1, 10 USPT-WM-12, 10 Bellagio (19101 108), 10 Eldorado(19101 208)) in preparation for inoculation experiments and for yield increase of white mold resistant plants
 * Each pot contains 2 seeds
 * Prior potting, bench was sweeped and sprayed with some low concentration bleach solution
+
+_Date: January 13, 2020_
+
+**Observations:**
+* 19 out of 20 USPT-WM-1 have germinated
+* 17 out of 20 USPT-WM-12 have germinated
+* 14 out of 20 of Eldorado have germinated 
+* 6 out of 20 of Bellagio have germinated 
