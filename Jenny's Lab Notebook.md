@@ -53,3 +53,11 @@ _Date: January 13, 2020_
 * 17 out of 20 USPT-WM-12 have germinated
 * 14 out of 20 of Eldorado have germinated 
 * 6 out of 20 of Bellagio have germinated 
+
+_Date: January 15, 2020_
+
+**Observations:**
+* 20 out of 20 USPT-WM-1 have germinated
+* 17 out of 20 USPT-WM-12 have germinated
+* 18 out of 20 of Eldorado have germinated 
+* 16 out of 20 of Bellagio have germinated 
