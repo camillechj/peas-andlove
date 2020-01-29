@@ -66,8 +66,10 @@ _Date: January 23, 2020_
 
 **Actions:**
 * Harvested f1 plants from the greenhouse 
+(see f1 crosses.xlsx)
 
 _Date: January 28, 2020_
 
 **Actions:**
 * Harvested f1 plants from the greenhouse 
+(see f1 crosses.xlsx)
