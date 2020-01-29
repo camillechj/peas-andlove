@@ -61,3 +61,13 @@ _Date: January 15, 2020_
 * 17 out of 20 USPT-WM-12 have germinated
 * 18 out of 20 of Eldorado have germinated 
 * 16 out of 20 of Bellagio have germinated 
+
+_Date: January 23, 2020_
+
+**Actions:**
+* Harvested f1 plants from the greenhouse 
+
+_Date: January 28, 2020_
+
+**Actions:**
+* Harvested f1 plants from the greenhouse 
