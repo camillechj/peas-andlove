@@ -73,3 +73,16 @@ _Date: January 28, 2020_
 **Actions:**
 * Harvested f1 plants from the greenhouse 
 (see f1 crosses.xlsx)
+
+_Date: January 29, 2020_
+
+**Actions:**
+* Harvested f1 plants from the greenhouse
+(see f1 crosses.xlsx)
+* Plated 3 sclerotia separately onto PDA plates 
+
+_Date: January 30, 2020_
+
+**Actions:**
+* Harvested f1 plants from the greenhouse
+(see f1 crosses.xlsx)
