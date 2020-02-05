@@ -93,3 +93,13 @@ _Date: February 3, 2020_
 * Harvested f1 plants from the greenhouse
 (see f1 crosses.xlsx)
 * Noted that the plants potted on January 7 are now forming flower buds
+
+_Date: February 4, 2020_
+**Actions:**
+* Harvested f1 plants from the greenhouse
+(see f1 crosses.xlsx)
+* Sorted the collected seeds and placed into red bin
+
+_Date: February 5, 2020_
+**Actions:**
+* Sterilized and placed flowers onto S. Sclerotiorum plates at 4pm
