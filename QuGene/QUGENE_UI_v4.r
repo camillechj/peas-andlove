@@ -1,5 +1,6 @@
-YOU CAN COPY AND PASTE THE FOLLOWING CODE AND SAVE IT AS A .TXT FILE CALLED "QUGENE_UI_v4.r"
-_____________________________________________________________________________________________
+#############################################################################################
+## YOU CAN COPY AND PASTE THE FOLLOWING CODE AND SAVE IT AS A .TXT FILE CALLED "QUGENE_UI_v4.r"
+#############################################################################################
 
 ##########################################################################
 ## This is a modification of source code used for RShiny QUGENE_UI
