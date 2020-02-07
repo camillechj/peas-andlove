@@ -104,4 +104,10 @@ _Date: February 4, 2020_
 _Date: February 5, 2020_
 
 **Actions:**
-* Sterilized and placed flowers onto S. Sclerotiorum plates at 4pm
+* Collected, sterilized, and placed flowers onto S. Sclerotiorum plates at 4pm
+
+_Date: February 6, 2020_
+
+**Actions:**
+* Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of three Bellagio plants at the corner of bench 3 
+* Collected flowers and placed them onto S. Sclerotiorum plates at 4pm 
