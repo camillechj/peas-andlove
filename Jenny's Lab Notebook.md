@@ -109,5 +109,18 @@ _Date: February 5, 2020_
 _Date: February 6, 2020_
 
 **Actions:**
+* Harvested f1 plants from the greenhouse
+(see f1 crosses.xlsx)
+
+_Date: February 7, 2020_
+
+**Actions:**
 * Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of three Bellagio plants at the corner of bench 3 
-* Collected flowers and placed them onto S. Sclerotiorum plates at 4pm 
+* Collected flowers and placed them directly onto S. Sclerotiorum plates at 4pm (no sterilization)
+
+_Date: February 10, 2020_
+
+**Actions:**
+* * Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of two Bellagio plants at the corner of bench 3. Leaves were relatively undamaged 
+
+* Collected flowers and placed them onto S. Sclerotiorum plates at 5pm 
