@@ -121,9 +121,10 @@ _Date: February 7, 2020_
 _Date: February 10, 2020_
 
 **Actions:**
-* * Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of two Bellagio plants at the corner of bench 3. Leaves were relatively undamaged 
-![Image](https://github.com/McGillHaricots/peas-andlove/blob/master/picture/84501819_496126354430254_3959893867624398848_n.jpg | width=100px)
+* * Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of two Bellagio plants at the corner of bench 3. Leaves were relatively undamaged
 
-<img scr="https://github.com/McGillHaricots/peas-andlove/blob/master/picture/84501819_496126354430254_3959893867624398848_n.jpg" width="500" height="500">
+<a href="url"><img src="https://github.com/McGillHaricots/peas-andlove/blob/master/picture/84501819_496126354430254_3959893867624398848_n.jpg" align="left" height="325" width="250" ></a>
+
+
 
 * Collected flowers and placed them onto S. Sclerotiorum plates at 5pm 
