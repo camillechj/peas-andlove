@@ -31,7 +31,7 @@ _Date: December 8, 2019_
 * Checked up on petri dishes containing sclerotia: mycelium germination 
 * photo taken at 12:30pm:
 
-![image](https://github.com/McGillHaricots/peas-andlove/blob/master/IMG_1530%20(2).jpg)
+<a href="url"><img src="https://github.com/McGillHaricots/peas-andlove/blob/master/IMG_1530%20(2).jpg" align="center" height="250" width="325" ></a>
 
 _Date: January 6, 2020_
 
@@ -116,15 +116,13 @@ _Date: February 7, 2020_
 
 **Actions:**
 * Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of three Bellagio plants at the corner of bench 3 
-* Collected flowers and placed them directly onto S. Sclerotiorum plates at 4pm (no sterilization)
+* Collected flowers and placed them directly onto _S. Sclerotiorum_ plates at 4pm (no sterilization)
 
 _Date: February 10, 2020_
 
 **Actions:**
-* * Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of two Bellagio plants at the corner of bench 3. Leaves were relatively undamaged
+* Transfered infected flowers onto sets of trifoliate leaves at the fourth internode of two Bellagio plants at the corner of bench 3. Leaves were relatively undamaged
 
-<a href="url"><img src="https://github.com/McGillHaricots/peas-andlove/blob/master/picture/84501819_496126354430254_3959893867624398848_n.jpg" align="left" height="325" width="250" ></a>
+<a href="url"><img src="https://github.com/McGillHaricots/peas-andlove/blob/master/picture/84501819_496126354430254_3959893867624398848_n.jpg" align="center" height="325" width="250" ></a>
 
-
-
-* Collected flowers and placed them onto S. Sclerotiorum plates at 5pm 
+* Collected, sterilized, and placed flowers onto _S. Sclerotiorum_ plates at 5pm 
