@@ -109,6 +109,7 @@ _Date: February 5, 2020_
 _Date: February 6, 2020_
 
 **Actions:**
+* Noted that plants potted on January 7 are now flowering
 * Harvested f1 plants from the greenhouse
 (see f1 crosses.xlsx)
 
@@ -131,3 +132,4 @@ _Date: February 10, 2020_
 <a href="url"><img src="https://github.com/McGillHaricots/peas-andlove/blob/master/picture/86299560_763869974442579_4498057139578732544_n.jpg" align="center" height="325" width="250" ></a>
 
 * Collected, sterilized, and placed flowers onto _S. Sclerotiorum_ plates at 5pm 
+* Noted that the leaves inoculated on February 7 are highly damaged by pests and are difficult to assess
