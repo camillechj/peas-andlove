@@ -133,3 +133,9 @@ _Date: February 10, 2020_
 
 * Collected, sterilized, and placed flowers onto _S. Sclerotiorum_ plates at 5pm 
 * Noted that the leaves inoculated on February 7 are highly damaged by pests and are difficult to assess
+
+_Date: February 14, 2020_
+
+**Actions:**
+* Inoculated leaves from 3 bellagio plants using the infected flowers from February 10 (4 day long incubation)
+* Took 3 sclerotia from one of the plates and placed them onto separate petri dishes
