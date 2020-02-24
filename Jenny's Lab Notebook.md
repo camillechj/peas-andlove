@@ -144,3 +144,13 @@ _Date: February 18, 2020_
 
 **Actions:**
 * Planted 10 Bellagio (19101 108) and 10 Eldorado(19101 208) in the growth chambers in 6" pots 
+
+_Date: February 23, 2020_
+
+**Actions:**
+* Harvested f1 crosses (see Excel sheet)
+
+_Date: February 24, 2020_
+
+**Observtions:**
+* 4 bellagio plants have germinated, 1 eldorado plant has germinated 
