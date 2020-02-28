@@ -1,0 +1,152 @@
+!***********Information for selection strategies to be simulated***************
+!StrategyNumber StrategyName  NumGenerations
+1               BULK          9
+
+!NR SS  GT        PT          GA        RP PS    NL  ET...         Row 1
+!                                                AT (ID SM SP)...  Row 2
+!                                                WT (ID SM SP)...  Row 3
+1 0    CB clone bulk 1 10 1 1
+                0
+                0
+1 0    F1 singlecross bulk 1 20 1 1
+                0
+                0
+1 0    F2 self bulk 1 200 1 1
+                0
+                0   
+1 0    F3 self bulk 1 200 1 1
+                0
+                0
+1 0    F4 self bulk 1 200 1 1
+                0
+                0
+1 0    F5 self bulk 1 200 1 2
+                0
+                2 1 T 0.2 2 T 0.2
+1 0    F6 self bulk 1 200 1 2
+                0
+                2 2 T 0.2 1 T 0.2
+1 0    F7 self bulk 1 200 1 2
+                0
+                2 1 T 0.2 2 T 0.2
+1 0    F8 self bulk 2 25 10 2 2 2 2 2 2 2 2 2 2
+                0
+                2 1 T 0.2 2 T 0.2
+1 0    F9 clone pedigree 1 7 1 2
+                0
+                0
+!GENERAL NOTES:
+!Since crosses has been set to random, even if you don't do among family selection, you will run out of families 
+!because some of the crosses will be repeated and will be in the same family
+!You will need to change the .pox file to ensure no crosses are repeated
+!To resolve memory issue, you can change "random seed" in the .ges file to any number 
+          
+!***********Information for selection strategies to be simulated***************
+!StrategyNumber StrategyName  NumGenerations
+1               MASS          8
+
+1 0    CB clone bulk 1 10 1 1
+                0
+                0
+1 0    F1 singlecross superbulk 1 20 1 1
+                0
+                0
+1 0    F2 self bulk 1 200 1 2
+                0
+                0   
+1 0    F3 self bulk 1 200 1 2
+                0
+                0
+1 0    F4 self bulk 1 200 1 2
+                0
+                0
+1 0    F5 self bulk 1 200 1 2
+                0
+                2 1 T 0.2  2 T 0.2
+1 0    F6 self bulk 1 200 1 2
+                0
+                2 2 T 0.2  1 T 0.2
+1 0    F7 self bulk 1 200 1 2
+                0
+                1 1 T 0.2
+1 0    F8 self bulk 2 25 10 2 2 2 2 2 2 2 2 2 2
+                0
+                1 2 T 0.2
+                
+!GENERAL NOTES:
+!Mass selection has no issues
+                
+!***********Information for selection strategies to be simulated***************
+!StrategyNumber StrategyName  NumGenerations
+1               SSD           9
+
+1 0    CB clone bulk 1 10 1 1
+                0
+                0
+1 0    F1 singlecross bulk 1 20 1 1
+                0
+                0
+1 0    F2 self pedigree 1 10 1 2
+                0
+                1 1 RN 1  
+1 0    F3 self pedigree 1 10 1 1
+                0
+                1 1 RN 1 
+1 0    F4 self pedigree 1 10 1 2
+                0
+                1 1 RN 1 
+1 0    F5 self bulk 1 200 1 2
+                0
+                2 1 T 0.2  2 T 0.2
+1 0    F6 self bulk 1 200 1 2
+                1 1 T 0.8
+                2 2 T 0.2  1 T 0.2
+1 0    F7 self bulk 1 200 1 2
+                0
+                0
+1 0    F8 self bulk 2 25 10 2 2 2 2 2 2 2 2 2 2
+                1 1 T 0.8
+                0
+1 0    F9 clone pedigree 1 20 1 1
+                0
+                0
+!GENERAL NOTES:
+!You will run out of families at generation 8
+!DO NOT clone pedigree (it would make all members of a family identical, won't be accurate)
+!Solution is to do self pedigree and do within selection (random number)
+                
+!***********Information for selection strategies to be simulated***************
+!StrategyNumber StrategyName  NumGenerations
+1               PEDIGREE      8
+
+1 0    CB clone bulk 1 10 1 1
+                0
+                0
+1 0    F1 singlecross bulk 1 20 1 1
+                0
+                0
+1 0    F2 self pedigree 1 30 1 2
+                1 1 T 0.8
+                2 2 T 0.2  1 T 0.2  
+1 0    F3 self pedigree 1 30 1 2
+                0
+                0
+1 0    F4 self pedigree 1 30 1 2
+                1 2 T 0.8
+                2 1 T 0.2  2 T 0.2
+1 0    F5 self pedigree 1 30 1 2
+                1 1 T 0.8
+                2 2 T 0.2  1 T 0.2
+1 0    F6 self bulk 1 20 1 2
+                1 2 T 0.8
+                2 1 T 0.2  2 T 0.2
+1 0    F7 self bulk 1 20 1 2
+                1 1 T 0.8 
+                0
+1 0    F8 self bulk 1 1 10 2 2 2 2 2 2 2 2 2 2
+                1 2 T 0.8
+                0
+
+!GENERAL NOTES:
+!Takes longer and requires more memory, but no issues with running out of famillies
+                
