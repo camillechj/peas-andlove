@@ -78,7 +78,7 @@
                 
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
-1               SSD           9
+1               SSD           8
 
 1 0    CB clone bulk 1 10 1 1
                 0
@@ -104,12 +104,10 @@
 1 0    F7 self bulk 1 200 1 2
                 0
                 0
-1 0    F8 self bulk 2 25 10 2 2 2 2 2 2 2 2 2 2
+1 0    F8 self pedigree 2 25 10 2 2 2 2 2 2 2 2 2 2
                 1 1 T 0.8
-                0
-1 0    F9 clone pedigree 1 20 1 1
-                0
-                0
+                1 1 R 0.2
+
 !GENERAL NOTES:
 !You will run out of families at generation 8
 !DO NOT clone pedigree (it would make all members of a family identical, won't be accurate)
