@@ -6,7 +6,7 @@
 
 1. In a 2L flask, add 500mL of double distilled H2O
 1. Weigh out 39g of PDA and add it to the 2L flask 
-1. Add 1mL chloramphenicol
+1. Add 1000uL chloramphenicol
 1. Add enough double distilled H2O to bring the volume to 1L
 1. Autoclave on liquid cycle at 121C for 30 minutes 
 
@@ -17,6 +17,10 @@
 1. Add 500uL chloramphenicol
 1. Add enough double distilled H2O to bring the volume to 500mL
 1. Autoclave on liquid cycle at 121C for 30 minutes 
+
+## Preparing chloramphenicol stock solution (25mg/mL)
+1. Weigh out 2.5g of chloramphenicol 
+1. Dissolve in 100mL of ethanol 
 
 ## Disinfecting sclerotia 
 
