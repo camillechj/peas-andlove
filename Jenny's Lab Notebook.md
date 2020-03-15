@@ -144,13 +144,37 @@ _Date: February 18, 2020_
 
 **Actions:**
 * Planted 10 Bellagio (19101 108) and 10 Eldorado(19101 208) in the growth chambers in 6" pots 
+* Fertilized and watered plants
 
 _Date: February 23, 2020_
 
 **Actions:**
 * Harvested f1 crosses (see Excel sheet)
 
-_Date: February 24, 2020_
+_Date range: February 24, 2020 to March 12_
 
-**Observtions:**
-* 4 bellagio plants have germinated, 1 eldorado plant has germinated 
+**Actions and observations:**
+* Watered plants daily 
+* All but 3 plants have germinated 
+* No sign of disease or pest infestation on any plants 
+* Harvested f1 crosses (see Excel Sheet)
+* Finished up writing proposal and preparing seminar presentation
+
+_Date: March 12, 2020_
+
+**Actions:**
+* Prepared 100mL chloramphenicol stock solution (concentration 25mg/mL)
+* Prepared 1L of PDA media supplemented with chloramphenicol (500uL)
+
+_Date: March 13, 2020_
+
+**Actions:**
+* Placed 3 new sclerotia onto newly poured media (all sclerotia were chosen based on light colouration)
+* Placed a mycelial plug from an old petri dish onto newly poured media 
+* Note that four new plates were sealed with parafilm to keep moisture in 
+
+_Date: March 15, 2020_
+
+**Actions:** 
+* Fertilized plants in the growth chamber 
+* Harvested f1 crosses, WM-1, and WM-12 
