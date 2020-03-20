@@ -1,6 +1,6 @@
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
-1               BULK          9
+1               BULK          8
 
 !NR SS  GT        PT          GA        RP PS    NL  ET...         Row 1
 !                                                AT (ID SM SP)...  Row 2
@@ -32,14 +32,10 @@
 1 0    F8 self bulk 2 25 10 2 2 2 2 2 2 2 2 2 2
                 0
                 2 1 T 0.2 2 T 0.2
-1 0    F9 clone pedigree 1 7 1 2
-                0
-                0
+
 !GENERAL NOTES:
-!Since crosses has been set to random, even if you don't do among family selection, you will run out of families 
-!because some of the crosses will be repeated and will be in the same family
-!You will need to change the .pox file to ensure no crosses are repeated
-!To resolve memory issue, you can change "random seed" in the .ges file to any number 
+!Now able to run properly using the new version of QuLinePlus
+!Requires 1.12BG and takes 28 minutes to run 50 cycles
           
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
