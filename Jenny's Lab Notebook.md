@@ -178,3 +178,9 @@ _Date: March 15, 2020_
 **Actions:** 
 * Fertilized plants in the growth chamber 
 * Harvested f1 crosses, WM-1, and WM-12 
+
+_Date: March 17 to 19, 2020_
+
+**Actions:**
+** Harvested all remaining f1 crosses, WM-1, and WM-12
+** Disposed of leftover plant material
