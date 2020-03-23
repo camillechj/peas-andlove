@@ -39,7 +39,7 @@
           
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
-1               MASS          8
+2               MASS          8
 
 1 0    CB clone bulk 1 10 1 1
                 0
@@ -74,7 +74,7 @@
                 
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
-1               SSD           8
+3               SSD           8
 
 1 0    CB clone bulk 1 10 1 1
                 0
@@ -93,10 +93,10 @@
                 1 1 RN 1 
 1 0    F5 self bulk 1 200 1 2
                 0
-                2 1 T 0.2  2 T 0.2
+                1 1 T 0.2 
 1 0    F6 self bulk 1 200 1 2
                 1 1 T 0.8
-                2 2 T 0.2  1 T 0.2
+                1 1 T 0.2
 1 0    F7 self bulk 1 200 1 2
                 0
                 0
@@ -108,10 +108,11 @@
 !You will run out of families at generation 8
 !DO NOT clone pedigree (it would make all members of a family identical, won't be accurate)
 !Solution is to do self pedigree and do within selection (random number)
+!Requires 163.46MB of memory and 5 minutes
                 
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
-1               PEDIGREE      8
+4               PEDIGREE      8
 
 1 0    CB clone bulk 1 10 1 1
                 0
@@ -121,24 +122,24 @@
                 0
 1 0    F2 self pedigree 1 30 1 2
                 1 1 T 0.8
-                2 2 T 0.2  1 T 0.2  
+                1 1 T 0.2
 1 0    F3 self pedigree 1 30 1 2
                 0
                 0
 1 0    F4 self pedigree 1 30 1 2
-                1 2 T 0.8
-                2 1 T 0.2  2 T 0.2
+                1 1 T 0.8
+                1 1 T 0.2
 1 0    F5 self pedigree 1 30 1 2
                 1 1 T 0.8
-                2 2 T 0.2  1 T 0.2
+                1 1 T 0.2
 1 0    F6 self bulk 1 20 1 2
-                1 2 T 0.8
-                2 1 T 0.2  2 T 0.2
+                1 1 T 0.8
+                1 1 T 0.2
 1 0    F7 self bulk 1 20 1 2
                 1 1 T 0.8 
                 0
 1 0    F8 self bulk 1 1 10 2 2 2 2 2 2 2 2 2 2
-                1 2 T 0.8
+                1 1 T 0.8
                 0
 
 !GENERAL NOTES:
