@@ -120,22 +120,22 @@
 1 0    F1 singlecross bulk 1 20 1 1
                 0
                 0
-1 0    F2 self pedigree 1 20 1 2
+1 0    F2 self pedigree 1 10 1 2
                 1 1 T 0.8
                 1 1 T 0.2
-1 0    F3 self pedigree 1 20 1 2
+1 0    F3 self pedigree 1 10 1 2
                 0
                 0
-1 0    F4 self pedigree 1 20 1 2
+1 0    F4 self pedigree 1 10 1 2
                 1 1 T 0.8
                 1 1 T 0.2
-1 0    F5 self pedigree 1 20 1 2
+1 0    F5 self pedigree 1 10 1 2
                 1 1 T 0.8
                 1 1 T 0.2
-1 0    F6 self bulk 1 15 1 2
+1 0    F6 self bulk 1 5 1 2
                 1 1 T 0.8
                 1 1 T 0.2
-1 0    F7 self bulk 1 15 1 2
+1 0    F7 self bulk 1 5 1 2
                 1 1 T 0.8 
                 0
 1 0    F8 self bulk 1 1 10 2 2 2 2 2 2 2 2 2 2
@@ -144,5 +144,5 @@
 
 !GENERAL NOTES:
 !Takes longer and requires more memory, but no issues with running out of famillies
-!Requires 35.83 GB and 15 hours
+!Requires 2.25 GB and 52 minutes
                 
