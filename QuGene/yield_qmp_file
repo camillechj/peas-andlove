@@ -108,7 +108,7 @@
 !You will run out of families at generation 8
 !DO NOT clone pedigree (it would make all members of a family identical, won't be accurate)
 !Solution is to do self pedigree and do within selection (random number)
-!Requires 163.46MB of memory and 5 minutes
+!Requires 163.46MB of memory and 5 minutes to run 50 cycles
                 
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
@@ -144,5 +144,5 @@
 
 !GENERAL NOTES:
 !Takes longer and requires more memory, but no issues with running out of famillies
-!Requires 2.25 GB and 52 minutes
+!Requires 2.25 GB and 52 minutes to run 50 cycles
                 
