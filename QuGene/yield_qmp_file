@@ -22,16 +22,16 @@
                 0
 1 0    F5 self bulk 1 200 1 2
                 0
-                2 1 T 0.2 2 T 0.2
+                1 1 T 0.2 
 1 0    F6 self bulk 1 200 1 2
                 0
-                2 2 T 0.2 1 T 0.2
+                1 1 T 0.2 
 1 0    F7 self bulk 1 200 1 2
                 0
-                2 1 T 0.2 2 T 0.2
+                1 1 T 0.2
 1 0    F8 self bulk 2 25 10 2 2 2 2 2 2 2 2 2 2
                 0
-                2 1 T 0.2 2 T 0.2
+                1 1 T 0.2 
 
 !GENERAL NOTES:
 !Now able to run properly using the new version of QuLinePlus
@@ -58,19 +58,21 @@
                 0
 1 0    F5 self bulk 1 200 1 2
                 0
-                2 1 T 0.2  2 T 0.2
+                1 1 T 0.2  
 1 0    F6 self bulk 1 200 1 2
                 0
-                2 2 T 0.2  1 T 0.2
+                1 1 T 0.2 
 1 0    F7 self bulk 1 200 1 2
                 0
                 1 1 T 0.2
-1 0    F8 self bulk 2 25 10 2 2 2 2 2 2 2 2 2 2
+1 0    F8 self superbulk 2 25 10 2 2 2 2 2 2 2 2 2 2
                 0
-                1 2 T 0.2
+                1 1 T 0.2
                 
 !GENERAL NOTES:
-!Mass selection has no issues
+!In the newest version of QuLinePlus, there must be at least 2 families at the end of the cycle with bulk
+!bulk at F8 must be changed to superbulk
+!Requires 43.33MB and 3 minutes to complete 50 cycles
                 
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
