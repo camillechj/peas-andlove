@@ -31,3 +31,5 @@ mass.cycle <- mass %>% group_by(Cycle) %>% summarize(Value=mean(Value,na.rm=TRUE
 ssd.cycle <- ssd %>% group_by(Cycle) %>% summarize(Value=mean(Value,na.rm=TRUE), ValueAD=mean(ValueAD,na.rm=TRUE))
 
 pedigree.cycle <- pedigree %>% group_by(Cycle) %>% summarize(Value=mean(Value,na.rm=TRUE), ValueAD=mean(ValueAD,na.rm=TRUE))
+
+
