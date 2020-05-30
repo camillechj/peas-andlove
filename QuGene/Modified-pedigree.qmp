@@ -1,0 +1,34 @@
+!***********Information for selection strategies to be simulated***************
+!StrategyNumber StrategyName  NumGenerations
+1               BULK          8
+
+!NR SS  GT        PT          GA        RP PS    NL  ET...         Row 1
+!                                                AT (ID SM SP)...  Row 2
+!                                                WT (ID SM SP)...  Row 3
+1 0    CB clone bulk 1 10 1 1
+                0
+                0
+1 0    F1 singlecross bulk 1 20 1 1
+                0
+                0
+1 0    F2 self bulk 1 200 1 1
+                0
+                0   
+1 0    F3 self bulk 1 200 1 1
+                0
+                0
+1 0    F4 self bulk 1 200 1 1
+                0
+                0
+1 0    F5 self pedigree 1 125 1 2
+                0
+                1 2 R 0.5
+1 0    F6(PYT) self bulk 2 240 2 2 2
+                1 2 T 0.4
+                1 2 RN 100
+1 0    F7(PYT) self bulk 3 240 2 2 2
+                1 2 T 0.4
+                1 2 RN 100
+1 0    F8(AYT) self bulk 4 240 10 2 2 2 2 2 2 2 2 2 2
+                1 2 T 0.4
+                1 2 RN 50
