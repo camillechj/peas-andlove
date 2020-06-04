@@ -32,3 +32,35 @@
 1 0    F8(AYT) self bulk 4 240 10 2 2 2 2 2 2 2 2 2 2
                 1 2 T 0.4
                 1 2 RN 50
+
+!***********Information for selection strategies to be simulated***************
+!StrategyNumber StrategyName  NumGenerations
+2               MASS          8
+
+1 0    CB clone bulk 1 10 1 1
+                0
+                0
+1 0    F1 singlecross superbulk 1 20 1 1
+                0
+                0
+1 0    F2 self bulk 1 200 1 2
+                0
+                0   
+1 0    F3 self bulk 1 200 1 2
+                0
+                0
+1 0    F4 self bulk 1 200 1 2
+                0
+                0
+1 0    F5 self bulk 1 200 1 2
+                0
+                1 2 T 0.2
+1 0    F6(PYT) self bulk 2 240 2 2 2
+                0
+                1 2 T 0.2
+1 0    F7(PYT) self bulk 3 240 2 2 2
+                0
+                1 2 T 0.2
+1 0    F8(AYT) self superbulk 4 240 10 2 2 2 2 2 2 2 2 2 2
+                0
+                1 2 T 0.2
