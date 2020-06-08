@@ -101,9 +101,6 @@
 !StrategyNumber StrategyName  NumGenerations
 4               PEDIGREE      8
 
-!NR SS  GT        PT          GA        RP PS    NL  ET...         Row 1
-!                                                AT (ID SM SP)...  Row 2
-!                                                WT (ID SM SP)...  Row 3
 1 0    CB clone bulk 1 10 1 1
                 0
                 0
