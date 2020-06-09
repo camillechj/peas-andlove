@@ -25,13 +25,13 @@
                 1 2 R 0.5
 1 0    F6(PYT) self bulk 2 240 2 2 2
                 1 2 T 0.4
-                1 2 RN 100
+                0
 1 0    F7(PYT) self bulk 3 240 2 2 2
                 1 2 T 0.4
-                1 2 RN 100
+                0
 1 0    F8(AYT) self bulk 4 240 10 2 2 2 2 2 2 2 2 2 2
                 1 2 T 0.4
-                1 2 RN 50
+                1 2 RN 200
 
 !***********Information for selection strategies to be simulated***************
 !StrategyNumber StrategyName  NumGenerations
