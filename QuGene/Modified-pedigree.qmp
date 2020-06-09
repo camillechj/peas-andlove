@@ -128,3 +128,42 @@
 1 0    F8(AYT) self bulk 4 240 10 2 2 2 2 2 2 2 2 2 2
                 1 2 T 0.4
                 1 2 RN 200
+                
+!***********Information for selection strategies to be simulated***************
+!StrategyNumber StrategyName  NumGenerations
+1               MODPEDIGREE      8
+
+1 0    CB clone bulk 1 10 1 1
+                0
+                0
+1 0    F1 singlecross bulk 1 20 1 1
+                0
+                0
+1 0    F2 self pedigree 1 20 1 2
+                1 2 T 0.8
+                0
+1 0    F2:3 self bulk 1 60 1 2
+                0
+                0
+1 0    F3:4 self pedigree 1 20 1 2
+                1 2 T 0.8
+                0
+1 0    F3:5 self bulk 1 60 1 2
+                0
+                0
+1 0    F3:6(PYT) self bulk 2 240 2 2 2
+                1 2 T 0.4
+                0
+1 0    F3:7(PYT) self bulk 3 240 2 2 2
+                1 2 T 0.4 
+                0
+1 0    F3:8(AYT) self bulk 4 240 10 2 2 2 2 2 2 2 2 2 2
+                1 2 T 0.4
+                1 2 RN 200
+                
+### Specifications ###
+BULK: 14 hours 10 minutes (19.87 GB memory)
+MASS: 7 minutes (223.82 MB memory)
+SSD: 9 hours 40 minutes (12.62 GB memory)
+PED: 5 hours 43 minutes (8.25 GB memory)
+MODPED: 15 hours (20.92 GB memory)
