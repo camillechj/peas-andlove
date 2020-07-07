@@ -3,7 +3,7 @@ FIT FILES
 #########
 
 ### This code will allow you to create genetic gain graphs with a line that indicates when 90% of the cumulative genetic gain has been achieved
-__________________
+######################
 ### SETTING UP TO CODE
 
 setwd("/Users/jennylin/files/McGill/Thesis/QUGENE/SY_out50")
@@ -12,7 +12,7 @@ library("openxlsx")
 library("plyr") ; library("dplyr")
 library("ggplot2")
 
-___________________
+#######################
 ### READING IN THE DATA
 
 SYdelta <- read.xlsx("zout_SY50.fit.xlsx", colNames=TRUE,rowNames=FALSE)
@@ -56,7 +56,7 @@ SY90ped[,"cum_Delta"] <- cumsum(SY90ped$meanSYd)
 # 2396.999 - 2381.2241 = 15.7749 -> 0.1844882
 ###############################################
 
-__________________
+##################
 PLOTTING THE GRAPH
 
 delta90plot2 <- ggplot(data=SYsummary,aes(x=Cycle, y=meanSYd, group=Strategy)) + geom_line(aes(color=Strategy)) + 
