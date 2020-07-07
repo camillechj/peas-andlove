@@ -3,7 +3,7 @@ FIX FILES
 #########
 
 ### This code will allow you to create graphs that show the allele fixation rate for both favourable and non-favourable alleles
-_______________________
+#######################
 ### READING IN THE DATA
 
 SYfix <- read.csv("zout_SY50.fix.csv", header=TRUE, stringsAsFactors=FALSE)
@@ -19,7 +19,7 @@ SYfav <- SYfixsort %>% dplyr::summarize(meanSYf= mean(Favorable), sdSYf= sd(Favo
 
 SYnonfav <- SYfixsort %>% dplyr::summarize(meanSYf= mean(NonFavorable), sdSYf= sd(NonFavorable), nSYf=n(), SE_SYf= sd(NonFavorable)/sqrt(n()))
 
-________________________
+########################
 ### PLOTTING LINE GRAPHS
 
 ### For the fixation of favorable alleles 
