@@ -184,3 +184,9 @@ _Date: March 17 to 19, 2020_
 **Actions:**
 ** Harvested all remaining f1 crosses, WM-1, and WM-12
 ** Disposed of leftover plant material
+
+_Date: September 9, 2020_
+
+**Actions:**
+** Collected germinated sclerotia from plates and discarded waste
+** Placed bean seeds in paper towel in plastic bag to pre-germinate
