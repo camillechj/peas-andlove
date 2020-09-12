@@ -189,4 +189,10 @@ _Date: September 9, 2020_
 
 **Actions:**
 ** Collected germinated sclerotia from plates and discarded waste
-** Placed bean seeds in paper towel in plastic bag to pre-germinate
+** Placed dark red kidney bean seeds in paper towel in plastic bag to pre-germinate
+
+
+_Date: September 11, 2020_
+
+**Actions:**
+** Potted dark red kidney bean seeds (unknown cultivars; 3 seeds in pots 1 to 13; 2 seeds in pots 14 to 20)
