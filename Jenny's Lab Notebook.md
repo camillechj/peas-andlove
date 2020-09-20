@@ -182,22 +182,22 @@ _Date: March 15, 2020_
 _Date: March 17 to 19, 2020_
 
 **Actions:**
-** Harvested all remaining f1 crosses, WM-1, and WM-12
-** Disposed of leftover plant material
+* Harvested all remaining f1 crosses, WM-1, and WM-12
+* Disposed of leftover plant material
 
 _Date: September 9, 2020_
 
 **Actions:**
-** Collected germinated sclerotia from plates and discarded waste
-** Placed dark red kidney bean seeds in paper towel in plastic bag to pre-germinate
+* Collected germinated sclerotia from plates and discarded waste
+* Placed dark red kidney bean seeds in paper towel in plastic bag to pre-germinate
 
 _Date: September 11, 2020_
 
 **Actions:**
-** Potted dark red kidney bean seeds (unknown cultivars; 3 seeds in pots 1 to 13; 2 seeds in pots 14 to 20)
+* Potted dark red kidney bean seeds (unknown cultivars; 3 seeds in pots 1 to 13; 2 seeds in pots 14 to 20)
 
 _Date: September 17 and 18, 2020_
 
 **Observations:**
-** Plants have germinated
-** Removed some seedlings, so there is 2 plants per pot
+* Plants have germinated
+* Removed some seedlings, so there is 2 plants per pot
