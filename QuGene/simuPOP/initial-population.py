@@ -28,6 +28,8 @@ pop.evolve(
     gen = 100
 )
 
+### Save the file so it can be processed later (see the file called "Processing-simuPOP-population.r")
+
 from simuPOP.utils import saveCSV
 saveCSV(pop, filename='mypopfinal.csv', affectionFormatter={True: 1, False: 2},
     genoFormatter=lambda geno: (geno[0] + 1, geno[1] + 1), sep=',')
