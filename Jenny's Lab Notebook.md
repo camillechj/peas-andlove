@@ -201,3 +201,10 @@ _Date: September 17 and 18, 2020_
 **Observations:**
 * Plants have germinated
 * Removed some seedlings, so there is 2 plants per pot
+
+_Date: October 2, 2020_
+
+**Actions:**
+* Put S. sclerotia onto PDA plates (prepare for inoculation in 7 days)
+
+
