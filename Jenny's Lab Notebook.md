@@ -208,3 +208,13 @@ _Date: October 2, 2020_
 * Put S. sclerotia onto PDA plates (prepare for inoculation in 7 days)
 
 
+_Date: October 9, 2020_
+
+**Actions:**
+* Performed inoculations using the straw test method
+* Cut main stem 1 inch past the 4th node of the plant
+* Flipped the PDA plates so that the agar sits on the lid of the plate
+* Used wide end of 1mL pipette tips to dig into the agar until it touches the lid, then lifted pipette tip out to pick up agar with mycelium
+* placed pipette tip onto the cut stem
+
+
