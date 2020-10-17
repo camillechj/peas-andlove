@@ -194,7 +194,7 @@ _Date: September 9, 2020_
 _Date: September 11, 2020_
 
 **Actions:**
-* Potted dark red kidney bean seeds (unknown cultivars; 3 seeds in pots 1 to 13; 2 seeds in pots 14 to 20)
+* Potted dark red kidney bean seeds (Red rover; 3 seeds in pots 1 to 13; 2 seeds in pots 14 to 20)
 
 _Date: September 17 and 18, 2020_
 
