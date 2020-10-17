@@ -207,7 +207,6 @@ _Date: October 2, 2020_
 **Actions:**
 * Put S. sclerotia onto PDA plates (prepare for inoculation in 7 days)
 
-
 _Date: October 9, 2020_
 
 **Actions:**
@@ -217,4 +216,32 @@ _Date: October 9, 2020_
 * Used wide end of 1mL pipette tips to dig into the agar until it touches the lid, then lifted pipette tip out to pick up agar with mycelium
 * placed pipette tip onto the cut stem
 
+_Date: October 13, 2020_
 
+**Actions:**
+* Took two leaves and placed in NaCl solution (5g/L) 
+* Took two leaves and placed into petri dishes. Placed a plug of agar containing mycelium onto the leaves 
+* Pre-germinated seeds for the WMN straw test lines by wrapping seeds in wet paper towel and placing into plastic bags. 
+
+_Date: October 14, 2020_
+
+**Actions:**
+* Measured pH of leaves placed in 5g/L NaCl solution using the sensors connected to the Arduino. Obtained variable results. 
+
+
+_Date: October 15, 2020_
+
+**Actions:**
+* Conducted second measured pH of leaves placed in 5g/L NaCl solution using the sensors connected to the Arduino. Obtained similar variable results. 
+* Took two leaves and placed in higher concentration NaCl solution (50g/L)
+
+_Date: October 16, 2020_
+
+**Actions:**
+* Started the official WMN straw test. Used experimental design indicated in the protocol. Please see the Excel spreadsheet titled "exp-design.xlsx" for details.
+* Seeds were placed into 5" pots, allowing for 3 reps. Pots were placed in the growth chamber (23 deg C; 90% humidity; 14 hour days).
+
+_Date: October 17, 2020_
+
+**Actions:**
+* Performed straw test evaluations. Please see Excel spreadsheet titled "straw-test-priliminary.xlsx" for details. Average score was 3.55
