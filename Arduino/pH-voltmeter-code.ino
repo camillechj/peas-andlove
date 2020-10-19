@@ -57,3 +57,4 @@ void loop(){
 // 1) The file name CANNOT exceed 8 characters (including special characters)
 // 2) You must name a new file after each upload (the files are NEVER overwritten or appended to)
 // 3) If the Arduino accidentally powers off, you will need to re-upload the code. Use a new file name, or the new data will be lost
+// 4) An EBL rechargeable battery will only last 2 hours and 50 minutes. Need to determine a long term power solution.
