@@ -247,22 +247,27 @@ _Date: October 17, 2020_
 * Performed straw test evaluations. Please see Excel spreadsheet titled "straw-test-priliminary.xlsx" for details. Average score was 3.55
 
 _Date: November 13, 2020_
+
 **Actions:**
 * Pre-germinated seeds for the WMN greennhouse straw test (16 lines x 12 reps) 
 
 _Date: November 17, 2020_
+
 **Actions:**
 * Seeded lines for WMN straw test (1 seed per 6" pot); Pots will be manually watered daily
 
 _Date: December 21, 2020_
+
 **Actions:**
 * Inoculated WMN lines
 
 _Date: December 29, 2020_
+
 **Actions:**
 * Conducted straw test evaluation for WMN lines 
 
 _Date: January 13, 2021_
+
 **Actions:**
 * Poured plates (made 2 x 500mL of PDA media; 500uL of chloramphenicol each)
 
