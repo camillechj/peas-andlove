@@ -30,6 +30,7 @@ void loop(){
   time = (millis()/1000);
   Serial.print("Time: ");
   Serial.println(time);
+  Serial.println(",");
   Serial.print("Voltage: ");
   Serial.println(voltage);
 
@@ -43,7 +44,7 @@ void loop(){
 
   // if the file didn't open, print an error:
   else {
-    Serial.println("error opening example.txt");
+    Serial.println("error opening file");
   }
   
   delay(5000);
