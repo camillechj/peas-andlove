@@ -25,19 +25,31 @@ void setup(){
 }
 
 void loop(){
+  // Obtain the voltage reading
   value = analogRead(A0);
   voltage = value * 5.0/1023 * 1000;
+  
+  // Obtain the time from initialization in the format HH:MM:SS
   time = (millis()/1000);
-  Serial.print("Time: ");
-  Serial.println(time);
-  Serial.println(",");
-  Serial.print("Voltage: ");
+  int hr = time/3600;                                                        
+  int mins = (time-hr*3600)/60;                                              
+  int sec = time-hr*3600-mins*60;                                            
+  String hrMinSec = (String(hr) + ":" + String(mins) + ":" + String(sec));   
+  
+  // View the readings on the serial monitor
+  Serial.print("Time=");
+  Serial.print(hrMinSec);
+  Serial.print(", ");
+  Serial.print("Voltage=");
   Serial.println(voltage);
-
+  
+  // Write the output to the SD card
   myFile = SD.open("example.txt", FILE_WRITE);
   if (myFile) {
-    myFile.print(time);
-    myFile.print(",");
+    myFile.print("Time=");
+    myFile.print(hrMinSec);
+    myFile.print(", ");
+    myFile.print("Voltage=");
     myFile.println(voltage);
     myFile.close(); // close the file
   }
@@ -47,12 +59,12 @@ void loop(){
     Serial.println("error opening file");
   }
   
-  delay(5000);
+  // Choose the time interval for each reading. Note: 1000 = 1 second
+  delay(1000);
 }
-
 
 // GENERAL NOTES ABOUT THE ARDUINO CODE:
 // 1) The file name CANNOT exceed 8 characters (including special characters)
 // 2) You must name a new file after each upload (the files are NEVER overwritten or appended to)
 // 3) If the Arduino accidentally powers off, you will need to re-upload the code. Use a new file name, or the new data will be lost
-// 4) An EBL rechargeable battery will only last 2 hours and 50 minutes. Need to determine a long term cordless power solution
+// 4) An EBL rechargeable battery will only last 2 hours and 50 minutes. Need to determine a long-term cordless power solution
